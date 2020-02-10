@@ -17,7 +17,7 @@ PRODUCT_MODEL := Moto Z3 Play
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 TARGET_VENDOR := motorola
 TARGET_VENDOR_PRODUCT_NAME := beckham
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC=" 9 PPWS29.131-27-1-15 4d8b92 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC=" 9 PPWS29.131-27-4-9 3860e release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := 9/PPWS29.131-27-1-15/4d8b92:user/release-keys
+BUILD_FINGERPRINT := 9/PPWS29.131-27-4-9/3860e:user/release-keys
